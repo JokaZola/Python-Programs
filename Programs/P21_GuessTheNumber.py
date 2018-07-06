@@ -1,5 +1,5 @@
 #Author: OMKAR PATHAK
-#This program guesses the randomnly generated number
+#This program guesses the randomly generated number
 
 
 import random
